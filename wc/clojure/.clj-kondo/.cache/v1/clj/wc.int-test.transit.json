@@ -1,0 +1,1 @@
+["^ ","~$testing-wc-output",["^ ","~:row",6,"~:col",1,"~:macro",true,"~:varargs-min-arity",1,"~:name","^0","~:ns","~$wc.int-test","~:top-ns","^7"],"~$main-tests",["^ ","^1",15,"^2",1,"~:fixed-arities",["~#set",[0]],"^5","^9","^6","^7","^8","^7"],"~:filename","/home/vincebae/code/practice/clojure/challenges/ch1_wc/test/wc/int_test.clj"]
