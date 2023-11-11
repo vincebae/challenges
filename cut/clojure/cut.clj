@@ -1,8 +1,8 @@
 #!/usr/bin/env bb
 
 (require '[clojure.core.match :refer [match]]
-         '[clojure.tools.cli :refer [parse-opts]]
-         '[clojure.string :as s])
+         '[clojure.string :as s]
+         '[clojure.tools.cli :refer [parse-opts]])
 
 (def ^:private cli-options
   [["-f" "--fields FIELDS" "Field number"
